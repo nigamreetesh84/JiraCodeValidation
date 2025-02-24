@@ -1,0 +1,7 @@
+requests==2.28.2
+transformers==4.35.2
+torch==2.6.0
+jira==3.5.0
+gitpython==3.1.40
+pandas==2.0.3
+tokenizers==0.15.2 
